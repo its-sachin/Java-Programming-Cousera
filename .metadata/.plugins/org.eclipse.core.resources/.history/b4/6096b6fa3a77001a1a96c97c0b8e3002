@@ -1,0 +1,20 @@
+package lesson1;
+
+public class My_class {
+	/*
+	 * this is my first program
+	 */
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 10;
+		float y= (float)4.5;
+		double z = 4.5;
+		
+		System.out.println("Hello World");
+		
+		Scanner scan = new Scanner (System.in);
+
+	}
+
+}

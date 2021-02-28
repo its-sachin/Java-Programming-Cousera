@@ -1,0 +1,10 @@
+package lesson1;
+
+public class My_class {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

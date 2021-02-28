@@ -1,0 +1,17 @@
+package lesson1;
+
+public class Cube {
+	
+	int length;
+	int breadth;
+	int height;
+	
+	public int getCubeVolume() {
+		return (length*breadth*height);
+	}
+	
+	Cube(){
+		
+	}
+
+}

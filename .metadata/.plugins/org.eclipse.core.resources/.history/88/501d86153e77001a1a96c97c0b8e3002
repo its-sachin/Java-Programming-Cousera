@@ -1,0 +1,69 @@
+package lesson1;
+
+import java.util.Scanner;
+
+public class My_class {
+	/*
+	 * this is my first program
+	 */
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		int x = 10;
+//		float y= (float)4.5;
+//		double z = 4.5;
+//		
+//		System.out.println("Hello World");
+//		
+//		
+//		
+//		
+//		Scanner scan = new Scanner (System.in);
+//		System.out.println("Enter the number");
+//		int input_num = scan.nextInt();
+//		
+//		System.out.println("The entered number is");
+//		System.out.println(input_num);
+//		
+//		
+//		
+//		Scanner scan1 = new Scanner (System.in);
+//		System.out.println("Enter the  decimal number");
+//		float float_num = scan1.nextFloat();
+//		
+//		System.out.println("The entered number is");
+//		System.out.println(float_num);
+//		
+//		
+//		
+//		
+//		Scanner scan2 = new Scanner (System.in);
+//		System.out.println("Enter the  string");
+//		String str = scan2.nextLine();
+//		
+//		System.out.println("The entered string is");
+//		System.out.print(str);
+
+		
+		float x, y, ans;
+		x = 20;
+		y = 80;
+		ans = x%y;
+		
+		x++;
+		
+//		x++ first print then increment
+//		++x first increment then print
+		
+		x += 5;
+		
+		System.out.println("Answer = "+ x);
+		
+		
+//		if (some boolean expression)
+		{
+			execute if boolean expression is true
+		}
+	}
+
+}

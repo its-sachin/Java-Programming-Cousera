@@ -1,0 +1,9 @@
+package lesson1;
+
+public class Cube {
+	
+	int length;
+	int breadth;
+	int height;
+
+}

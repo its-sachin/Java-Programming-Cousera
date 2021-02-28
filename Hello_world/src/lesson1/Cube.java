@@ -1,0 +1,28 @@
+package lesson1;
+
+public class Cube {
+	
+	int length;
+	int breadth;
+	int height;
+	
+	public int getCubeVolume() {
+		return (length*breadth*height);
+	}
+	
+//	constructor
+	Cube(){
+//		cant return anything
+		length = 10;
+		breadth = 20;
+		height = 30;
+	}
+	
+	Cube(int l, int b, int h){
+		length = l;
+		breadth = b;
+		height = h;
+	}
+
+
+}
